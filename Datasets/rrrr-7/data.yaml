@@ -1,0 +1,14 @@
+names:
+- Character
+- Friend_label
+- Head
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: rrrr-0sbnp
+  url: https://universe.roboflow.com/worky/rrrr-0sbnp/dataset/7
+  version: 7
+  workspace: worky
+test: ../test/images
+train: ../train/images
+val: ../valid/images
