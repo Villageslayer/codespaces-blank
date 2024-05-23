@@ -1,6 +1,6 @@
 #!/bin/bash
-export KAGGLE_USERNAME=villageslayer
-export KAGGLE_KEY=6df063fec518248205dc372585e12fc8 
+export KAGGLE_USERNAME=
+export KAGGLE_KEY= 
 # Change to the dataset directory
 python update_json.py
 python update_yaml.py
